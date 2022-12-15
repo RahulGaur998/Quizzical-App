@@ -1,0 +1,22 @@
+.questions{
+    font-family: Karla;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.answers{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hr{
+    display: flex;
+    justify-content: center;
+    width: 50vw;
+    height: 0px;
+    left: 75px;
+    border: 0.794239px solid #DBDEF0;
+  }
